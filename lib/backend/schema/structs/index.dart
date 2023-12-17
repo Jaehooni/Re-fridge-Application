@@ -1,0 +1,24 @@
+export '/backend/schema/util/schema_util.dart';
+
+export 'add_food_response_struct.dart';
+export 'add_food_result_struct.dart';
+export 'add_fridge_response_struct.dart';
+export 'add_fridge_result_struct.dart';
+export 'delete_food_response_struct.dart';
+export 'delete_food_result_struct.dart';
+export 'delete_fridge_response_struct.dart';
+export 'delete_fridge_result_struct.dart';
+export 'food_info_struct.dart';
+export 'fridge_info_struct.dart';
+export 'login_response_struct.dart';
+export 'login_result_struct.dart';
+export 'rename_food_response_struct.dart';
+export 'rename_food_result_struct.dart';
+export 'rename_fridge_response_struct.dart';
+export 'rename_fridge_result_struct.dart';
+export 'show_food_list_response_struct.dart';
+export 'show_food_list_result_struct.dart';
+export 'show_fridge_list_response_struct.dart';
+export 'show_fridge_list_result_struct.dart';
+export 'sign_up_response_struct.dart';
+export 'sign_up_result_struct.dart';
