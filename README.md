@@ -1,7 +1,7 @@
-# Re-fridge-Application
+# FSSproject
 
-냉장고 관리 프로그램의 Application Repository
+A new Flutter project.
 
-## 설명
+## Getting Started
 
-FlutterFlow를 기반으로 한 Client 프로그램이다.
+FlutterFlow projects are built to run on the Flutter _stable_ release.
